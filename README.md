@@ -1,4 +1,4 @@
-![logo](https://github.com/shariq-developer/shariq-developer/blob/main/git-banner.webp)
+![logo](https://github.com/shariq-developer/shariq-developer/blob/main/git-banner2.png)
 <h1 align="center">Hi 👋, I'm M.Shariq</h1>
 <h3 align="center">A passionate Full stack developer | AI Enthusiast</h3>
 
@@ -8,7 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/shariq5002" target="blank"><img src="https://img.shields.io/twitter/follow/shariq5002?logo=twitter&style=for-the-badge" alt="shariq5002" /></a> </p>
 
+- 🌱 I’m currently learning: **Web Development**
+
+- 💬 Ask me about: **html,CSS,JavaScript,Java and Python**
+
 - 📫 How to reach me from gmail: **mohdshariq1879@gmail.com**
+
+- ⚡ Fun fact: **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
