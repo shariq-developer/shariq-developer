@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shariq-developer&label=Profile%20views&color=0e75b6&style=flat" alt="shariq-developer" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mohdshariq5002" target="blank"><img src="https://img.shields.io/twitter/follow/shariq5002?logo=twitter&style=for-the-badge" alt="shariq5002" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mohdshariq5002" target="blank"><img src="https://img.shields.io/twitter/follow/shariq5002?logo=twitter&style=for-the-badge" alt="mohdshariq5002" /></a> </p>
 
 - 🌱 I’m currently learning: **Web Development**
 
